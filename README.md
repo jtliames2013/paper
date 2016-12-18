@@ -11,3 +11,6 @@
 
 # Lightbend
 * [Reactive Streams, Akka Streams and Akka HTTP] (https://info.lightbend.com/rs/558-NCX-702/images/COLL-white-paper-akka-reactive-streams.pdf?mkt_tok=eyJpIjoiWlRJd1pHUmpOakkwTmpZMCIsInQiOiJxaVppSlZlQkI3VGRTWUZZVCtmU2ltdEltaTV5ZDlUbTNkY3kzWFhxZ3dKeWlLQjVqWkJoa1gyWGwrS0tnWDI3eFNGWGRqYmxWNnVIM3RtTlN2MnB1NWRmSnZ5blhxWHFjVVRDU2FXQ3ZlND0ifQ%3D%3D)
+
+# Twitter
+* [Improving Running Components at Twitter] (https://blog.evanweaver.com/2009/03/13/qcon-presentation/)
