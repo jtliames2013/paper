@@ -5,3 +5,6 @@
 
 # LinkedIn
 * [Kafka papers and presentations] (https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
+
+# Microsoft
+* [Windows Azure Storage: A Highly Available Cloud Storage Service with Strong Consistency, Brad Calder et al] (http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/11-calder.pdf)
