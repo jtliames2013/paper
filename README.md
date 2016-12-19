@@ -14,3 +14,6 @@
 
 # Twitter
 * [Improving Running Components at Twitter] (https://blog.evanweaver.com/2009/03/13/qcon-presentation/)
+
+# Facebook
+* [Wormhole: Reliable Pub-Sub to support Geo-replicated Internet Services, Yogeshwer Sharma et al] (https://pdos.csail.mit.edu/6.824/papers/wormhole.pdf)
