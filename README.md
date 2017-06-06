@@ -19,4 +19,4 @@
 * [Wormhole: Reliable Pub-Sub to support Geo-replicated Internet Services, Yogeshwer Sharma et al] (https://pdos.csail.mit.edu/6.824/papers/wormhole.pdf)
 
 # Google
-* [Benjamin H. Sigelman, Luiz André Barroso, Mike Burrows, Pat Stephenson, Manoj Plakal, Donald Beaver, Saul Jaspan, Chandan Shanbhag] (https://research.google.com/pubs/pub36356.html)
+* [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure, Benjamin H. Sigelman et al] (https://research.google.com/pubs/pub36356.html)
