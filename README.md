@@ -22,3 +22,6 @@
 * [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure, Benjamin H. Sigelman et al] (https://research.google.com/pubs/pub36356.html)
 * [Spanner: Google's Globally-Distributed Database, James C. Corbett et al] (https://research.google.com/archive/spanner.html)
 * [FlumeJava: Easy, Efficient Data-Parallel Pipelines, Craig Chambers et al] (https://research.google.com/pubs/pub35650.html)
+
+# Container
+* http://www.haifux.org/lectures/299/netLec7.pdf
