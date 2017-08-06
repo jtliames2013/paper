@@ -22,6 +22,12 @@
 * [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure, Benjamin H. Sigelman et al] (https://research.google.com/pubs/pub36356.html)
 * [Spanner: Google's Globally-Distributed Database, James C. Corbett et al] (https://research.google.com/archive/spanner.html)
 * [FlumeJava: Easy, Efficient Data-Parallel Pipelines, Craig Chambers et al] (https://research.google.com/pubs/pub35650.html)
+* [The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines] (https://research.google.com/pubs/pub35290.html)
 
 # Container
 * http://www.haifux.org/lectures/299/netLec7.pdf
+* https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon
+* https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html
+* https://www.slideshare.net/kerneltlv/namespaces-and-cgroups-the-basis-of-linux-containers
+* https://x-team.com/blog/introduction-kubernetes-architecture/
+* https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
