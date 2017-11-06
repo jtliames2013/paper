@@ -31,3 +31,6 @@
 * https://www.slideshare.net/kerneltlv/namespaces-and-cgroups-the-basis-of-linux-containers
 * https://x-team.com/blog/introduction-kubernetes-architecture/
 * https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
+## Kubernetes
+* [Kubernetes components] (https://kubernetes.io/docs/concepts/overview/components/)
+* [Kubernetes handbook] (https://github.com/feiskyer/kubernetes-handbook)
