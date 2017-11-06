@@ -34,5 +34,9 @@
 * [Kubernetes components] (https://kubernetes.io/docs/concepts/overview/components/)
 * [Kubernetes handbook] (https://github.com/feiskyer/kubernetes-handbook)
 * [Kubernetes design proposals] (https://github.com/kubernetes/community/tree/master/contributors/design-proposals)
-* [Kuernetess architecture] (https://x-team.com/blog/introduction-kubernetes-architecture/)
+* [Kubernetes architecture] (https://x-team.com/blog/introduction-kubernetes-architecture/)
+* [Kubernetes networking] (https://cloudnativelabs.github.io/post/2017-04-18-kubernetes-networking/)
+## Mesos & DC/OS
+* [Mesos architecture] (http://mesos.apache.org/documentation/latest/architecture/)
+* [DC/OS architecture] (https://dcos.io/docs/1.7/overview/architecture/)
 
