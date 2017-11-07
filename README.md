@@ -38,5 +38,8 @@
 * [Kubernetes networking] (https://cloudnativelabs.github.io/post/2017-04-18-kubernetes-networking/)
 ## Mesos & DC/OS
 * [Mesos architecture] (http://mesos.apache.org/documentation/latest/architecture/)
+* [Mesos paper] (https://people.eecs.berkeley.edu/~alig/papers/mesos.pdf)
 * [DC/OS architecture] (https://dcos.io/docs/1.7/overview/architecture/)
+* [Marathon] (https://mesosphere.github.io/marathon/docs/)
+* [Aurora] (http://aurora.apache.org/documentation/latest/getting-started/overview/)
 
