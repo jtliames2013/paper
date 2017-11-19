@@ -30,6 +30,7 @@
 # Container
 
 ## Linux container
+* https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt
 * http://www.haifux.org/lectures/299/netLec7.pdf
 * https://www.netdevconf.org/1.1/proceedings/slides/rosen-namespaces-cgroups-lxc.pdf
 * https://events.static.linuxfound.org/slides/lfcs2010_kolyshkin.pdf
