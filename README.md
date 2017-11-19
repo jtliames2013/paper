@@ -29,6 +29,7 @@
 * https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon
 * https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html
 * https://www.slideshare.net/kerneltlv/namespaces-and-cgroups-the-basis-of-linux-containers
+* https://www.slideshare.net/Paris_Container_Day/security-in-a-containerized-world-jessie-frazelle
 * https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
 ## Kubernetes
 * [Kubernetes components](https://kubernetes.io/docs/concepts/overview/components/)
